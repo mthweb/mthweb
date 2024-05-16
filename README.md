@@ -1,5 +1,5 @@
 - 👋 Hi, je suis @michee maykam
-- 👀 Je suis ingénieurlogiciel 
+- 👀 Je suis ingénieur logiciel 
 - 🌱 Je passionné par l'apprentissage des NTIC
 - 💞️ J'aime contribué dans les grandes réalisation Tech 
 
